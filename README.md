@@ -1,6 +1,6 @@
-# Assignment_21
+# output chess
 
-output chess
+
 
 ![f](https://user-images.githubusercontent.com/80582110/121786683-d57b4e80-cbd6-11eb-9df4-cc4c739b91e0.jpg)
 
